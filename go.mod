@@ -25,6 +25,6 @@ require (
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
 )
 
-replace github.com/cosmos/cosmos-sdk => github.com/coinsky/cosmos-sdk v0.0.0-20201017042047-0ff73f2bd10f
+replace github.com/cosmos/cosmos-sdk => github.com/coinsky/cosmos-sdk v0.1.0
 
-replace github.com/tendermint/tendermint => github.com/coinsky/tendermint v0.0.0-20201017042755-2d9f16eab71e
+replace github.com/tendermint/tendermint => github.com/coinsky/tendermint v0.1.0
